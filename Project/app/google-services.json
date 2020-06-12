@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206338701069",
+    "firebase_url": "https://jakshim-ea52c.firebaseio.com",
+    "project_id": "jakshim-ea52c",
+    "storage_bucket": "jakshim-ea52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206338701069:android:792005b80cf000e2562244",
+        "android_client_info": {
+          "package_name": "com.example.jakshim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206338701069-i86hsekt2o3gkg51qv5an3ekg4s4t565.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jakshim",
+            "certificate_hash": "2959f0a4a3e22b16757c1a102af2c7e1bda6dfb8"
+          }
+        },
+        {
+          "client_id": "206338701069-earrkr12rhv1blnkcugar35591d2tb7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGMbTB6hlrdH-c3lyuhk4sOec014qa9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206338701069-earrkr12rhv1blnkcugar35591d2tb7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

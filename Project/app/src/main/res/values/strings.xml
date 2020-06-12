@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AKT</string>
+    <string name="app_name">JACKSHIM</string>
+    <string name="title_activity_lock">Lock</string>
+    <string name="banner_ad_unit_id">banner_id</string>
 </resources>
